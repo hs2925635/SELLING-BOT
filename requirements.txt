@@ -3,3 +3,4 @@ python-telegram-bot
 aiogram
 telethon
 sqlalchemy
+phonenumbers
